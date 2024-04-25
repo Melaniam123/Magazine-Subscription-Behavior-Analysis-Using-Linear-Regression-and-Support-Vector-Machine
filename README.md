@@ -44,11 +44,10 @@ which assesses the purchasing behaviour of the individuals.
 5) The spending patterns across different product types, where
 most users are spending on Wine consumption and Meat products and least on Fruits. This could
 also be interpreted in a way that cost of meat and wine is far more superior than fruits.
-6) highest purchase done from stores and web purchases and
-the lowest, from deals.
+6) Highest purchase were visibly recorded from stores and web purchases while the lowest were recorded, from deals.
 7) The income distribution by Marital Status and
 Education where Married, Divorced and Widow have a higher Income while Singles have a
-lower income range, similarly PhDs and Graduates have a higher income range than the others
+lower income range, similarly PhDs and Graduates have a higher income range than the others indicating purchasing power
 8) Widow and Single’s have a higher response rate compared
 to Married , Common Law who often tend to ignore these deals.
 
