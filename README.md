@@ -111,15 +111,15 @@ Classification Model are ‘MntMeatProducts', 'MntGoldProds', 'NumDealsPurchases
 'NumStorePurchases', 'NumWebVisitsMonth'.
 
 # Results 
-Models Accuracy Precision Recall
-Linear regression Accuracy 0.8898809523809523 Precision 0.7049180327868853 Recall 0.43434343434343436
-STUDY OF LINEAR REGRESSION AND SVM
-SVM Model 1 (All data) Accuracy 0.8645833333333334 precision 0.6333333333333333 Recall 0.1919191919191919
-SVM Model II ( Significant Variables) Accuracy 0.8541666666666666 Precision 0.5555555555555556 Recall 0.050505050505050504
+Linear Regression 	SVM Model 1	SVM Model 2
+Models Accuracy Precision Recall Linear regression	Support Vector Machine  Model comprising All Data 	Support Vector Machine  Model comprising Significant Variables Only 
+Accuracy 0.88	Accuracy 0.86	Accuracy 0.85
+Recall 0.43	Precision 0.63,  Recall 0.19	Precision 0.55, Recall 0.05
 
 # Conclusion
 
-We can conclude, by assessing the model results and confirming that the logistic
-regression model is a better suited model to study the user subscription behaviour since the
-accuracy, precision and recall score is higher and reliable. Along with the accuracy the number
-of true positives and the correctful categorization of true positives is higher than the SVM model
+In summary, after a thorough evaluation of the model results, it becomes evident that the logistic regression model outperforms the SVM model in studying user subscription behavior. Through meticulous assessment, we have established that the logistic regression model exhibits higher accuracy, precision, and recall scores, thereby affirming its superior reliability and efficacy in this context. Notably, the logistic regression model demonstrates a greater ability to correctly identify and classify true positives, crucial for understanding the intricacies of customer behavior.
+
+This finding underscores the significance of employing the logistic regression model as a preferred tool for dissecting user subscription patterns. By leveraging its strengths, we can gain deeper insights into the factors influencing subscription decisions and tailor our strategies accordingly. Understanding these nuances is paramount for magazine publishers seeking to optimize subscription rates and mitigate churn.
+
+In essence, the logistic regression model emerges as not only a robust analytical tool but also a strategic asset in the pursuit of enhancing subscription-based revenue streams. Its superior performance underscores its value in informing targeted marketing efforts, personalized engagement strategies, and proactive churn prevention measures. Through continuous refinement and adaptation informed by these insights, publishers can foster stronger connections with their audiences, foster loyalty, and drive sustained growth in subscription revenues.
